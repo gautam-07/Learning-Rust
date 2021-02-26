@@ -21,5 +21,5 @@ fn main(){
    println!("Eleven  month = {}", months[10]);
    println!("Twelve  month = {}", months[11]);
 
-   // Rust do bounds checking automatically unlike languages like C and C++;
+   // Rust do bounds checking automatically unlike languages C and C++;
 }
